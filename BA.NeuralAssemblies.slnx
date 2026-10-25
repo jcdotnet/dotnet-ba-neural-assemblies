@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Project Path="src/BA.NeuralAssemblies.Core/BA.NeuralAssemblies.Core.csproj" Id="59314416-cd01-4ec8-aaf4-b6a305f07027" />
+  <Project Path="src/BA.NeuralAssemblies/BA.NeuralAssemblies.Console/BA.NeuralAssemblies.Console.csproj" />
+  <Project Path="tests/BA.NeuralAssemblies.Tests/BA.NeuralAssemblies.Tests.csproj" Id="03ca6cb6-fb81-40a0-9954-b753d68cc8d1" />
+</Solution>
