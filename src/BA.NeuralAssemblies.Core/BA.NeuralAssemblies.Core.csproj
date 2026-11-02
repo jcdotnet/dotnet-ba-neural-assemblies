@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Learning\" />
     <Folder Include="Assemblies\" />
   </ItemGroup>
 
